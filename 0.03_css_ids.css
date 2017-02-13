@@ -1,0 +1,20 @@
+/*to target a class in a css file, use a period. you can have as many
+classes as you want in an html file.
+to target an id, use a hashtag. you cannot have more than one in an
+html file. */
+
+.first-class {
+	color: green;
+}
+
+#second-class {
+	font-size: 16px;
+}
+
+#number-one {
+	color: red;
+}
+
+#number-two {
+	font-size: 24px;
+}

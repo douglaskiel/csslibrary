@@ -1,0 +1,17 @@
+/* This is a CSS comment */
+/* A sublime trick: use ctrl d to change the same word all at once throughout the doc. */
+
+body {
+	background-color: #ffee76;
+}
+
+div {
+	color: maroon;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+	border: solid;
+	border-color: black;
+}

@@ -1,0 +1,16 @@
+body {
+	background-color: #FAEBD7;
+}
+
+.css-classes {
+	background-color: rgb(253, 159, 143);
+}
+
+.css-classes p {
+	font-size: 16px;
+	color: green;
+}
+
+li {
+	color: navy;
+}

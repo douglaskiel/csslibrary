@@ -1,0 +1,94 @@
+#face {
+	width: 175px;
+	height: 210px;
+	border: 5px;
+	border-radius: 100%;
+	background-color: grey;
+	position: absolute;
+	margin: 100px 150px 100px 250px;
+}
+
+#mouth {
+	width: 85px;
+	height: 30px; 
+	border: 5px dotted white;
+	border-radius: 25px 25px 0px 0px;
+	background-color: black;
+	position:relative;
+	margin:16px;
+	top:14.5em;
+	left:17em;
+}
+
+#zipper {
+	width: 10px;
+	height: 20px;
+	border: 2px solid black;
+	border-radius: 0px;
+	background-color: silver;
+	position: absolute;
+	margin: 210px 0px 0px 375px;
+}
+
+.leftear {
+	width: 0px;
+	height: 10px;
+	border-top: 10px solid transparent;
+	border-left: 30px solid transparent;
+	border-bottom: 100px solid grey;
+	border-right: 30px solid transparent;
+	position: absolute;
+	margin: -20px 200px 110px 265px;
+}
+
+.rightear {
+	width: 0px;
+	height: 10px;
+	border-top: 10px solid transparent;
+	border-left: 30px solid transparent;
+	border-bottom: 100px solid grey;
+	border-right: 30px solid transparent;
+	position: absolute;
+	margin: -20px 200px 110px 350px;
+}
+
+.lefteye {
+	width: 40px;
+	height: 30px;
+	border: 5px;
+	border-radius: 100%;
+	background-color: red;
+	position: relative;
+	margin: 140px 150px 100px 280px;
+}
+
+.righteye {
+	width: 40px;
+	height: 30px;
+	border: 5px;
+	border-radius: 100%;
+	background-color: red;
+	position: absolute;
+	margin: -130px 150px 100px 350px;
+}
+
+.mideye {
+	width: 40px;
+	height: 30px;
+	border: 5px;
+	border-radius: 100%;
+	background-color: red;
+	position: relative;
+	margin: -160px 150px 125px 315px;
+}
+
+#innermid {
+	width: 0px;
+	height: -20px;
+	border-top: 0px solid transparent;
+	border-left: 10px solid transparent;
+	border-bottom: 10px solid yellow;
+	border-right: 10px solid transparent;
+	position: absolute;
+	margin: -150px 200px 110px 325px;
+}
